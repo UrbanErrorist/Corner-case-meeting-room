@@ -1,0 +1,71 @@
+body {
+	 background-color: #f8f8ff !important;
+	 color: #000;
+	 font-family: 'Avenir Next', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	 font-size: 18px;
+	 font-weight: 400;
+	 line-height: 1.8;
+}
+ 
+
+ 
+
+.home-page {
+	padding-top: 0px !important;
+	margin-top: 0px !important; }
+
+
+#menubar{
+	background-color: #191C20;
+	color: #f8f8f8;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+
+}
+
+ 
+
+#custombutton
+{
+background-color: #000;
+
+}
+
+ .button:hover {
+	 background-color: #fff;
+	 color: #000;
+}
+
+ .site-header {
+	 background-color: #fedf9e;
+	 margin: 5%;
+}
+ 
+ .home-page {
+	 display: grid;
+	 font-size: 24px;
+	 grid-template-columns: 50% 50%;
+	 line-height: 1.4;
+	 margin: 2em auto 0 auto;
+	 max-width: 45em;
+	 padding: 0;
+}
+ .home-page h1 {
+	 font-size: 1em;
+	 margin: 4em 0 0 0;
+}
+ .home-page .button {
+	 margin: 1em 0;
+}
+ footer {
+	 background-color: #000;
+	 color: rgba(255, 255, 255, 0.6);
+	 padding: 5%;
+}
+ @media screen and (max-width: 45em) {
+	 .home-page {
+		 display: block;
+	}
+}
+ 
