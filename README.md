@@ -64,7 +64,7 @@ Employees can book slot by pressing plus button on the bottom right. After press
 ## Screenshots
 ![Front page](front.png)
 
-![Employee page](emplyee.png)
+![Employee page](employee.png)
 
 ![Rooms page](rooms.png)
 
